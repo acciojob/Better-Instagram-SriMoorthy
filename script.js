@@ -32,3 +32,4 @@ function handleDrop(event) {
     
     return false;
 }
+
